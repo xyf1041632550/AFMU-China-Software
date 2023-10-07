@@ -1,0 +1,117 @@
+{
+	"pages": [
+		
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		},{
+			"path": "pages/index/card/card",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/remote/remote",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/result/result",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		},
+		
+		
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/book/book",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/exercise/exercise",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"permission": {
+	    
+	  },
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationStyle": "custom",
+		"navigationBarTitleText": "Fat Test",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#fff",
+		"rpxCalcMaxDeviceWidth": 1960, // rpx 计算所支持的最大设备宽度，单位 px，默认值为 960
+		"rpxCalcBaseDeviceWidth": 375, // rpx 计算使用的基准设备宽度，设备实际宽度超出 rpx 计算所支持的最大设备宽度时将按基准宽度计算，单位 px，默认值为 375
+		"rpxCalcIncludeWidth": 751 // rpx 计算特殊处理的值，始终按实际的设备宽度计算，单位 rpx，默认值为 750
+	},
+	"tabBar": {
+		"iconWidth":"20px",
+		"height":"60px",
+		"spacing":"3px",
+		"fontSize":"9px",
+		"color": "#999999",
+		"selectedColor": "#4394EF",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"iconPath": "static/images/swicth-n-1.png",
+			"selectedIconPath": "static/images/swicth-s-1.png",
+			"text": "%tab.page1%"
+		}, {
+			"pagePath": "pages/result/result",
+			"iconPath": "static/images/swicth-n-2.png",
+			"selectedIconPath": "static/images/swicth-s-2.png",
+			"text": "%tab.page2%"
+		},{
+			"pagePath": "pages/remote/remote",
+			"iconPath": "static/images/swicth-n-3.png",
+			"selectedIconPath": "static/images/swicth-s-3.png",
+			"text": "%tab.page3%"
+		},   {
+			"pagePath": "pages/my/my",
+			"iconPath": "static/images/swicth-n-4.png",
+			"selectedIconPath": "static/images/swicth-s-4.png",
+			"text": "%tab.page4%"
+		}]
+	},
+	"easycom": {
+		"autoscan": true
+	}
+}
