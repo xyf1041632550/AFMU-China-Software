@@ -1,0 +1,46 @@
+page{
+	background: #4fbfff;
+}
+.top {
+width: 100%;
+height: 280rpx;
+}
+
+.top-icon{
+width: 151rpx;
+height: 137rpx;
+}
+
+.title {
+width: max-content;
+padding: 0 20rpx;
+height: 56rpx;
+margin-right: 40rpx;
+border-radius: 28rpx;
+background-color: #010101;
+font-size: 27rpx;
+font-family: SimHei;
+font-weight: 400;
+color: #FFFFFF;
+}
+.pz-box{
+	width: 422rpx;
+	height: 422rpx;
+	margin: 300rpx auto;
+}
+.pz-img{
+	width: 422rpx;
+	height: 422rpx;
+}
+.pz-title{
+	width: 60%;
+	bottom: 40rpx;
+	font-size: 40rpx;
+	font-family: Eina01;
+	font-weight: 600;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 50rpx;
+	left: 20%;
+	height: 100rpx;
+}

@@ -1,0 +1,49 @@
+page{
+	background: #4fbfff;
+}
+.top {
+width: 100%;
+height: 280rpx;
+}
+
+.top-icon{
+width: 151rpx;
+height: 137rpx;
+}
+
+.title {
+width: max-content;
+padding: 0 20rpx;
+height: 56rpx;
+margin-right: 40rpx;
+border-radius: 28rpx;
+background-color: #010101;
+font-size: 27rpx;
+font-family: SimHei;
+font-weight: 400;
+color: #FFFFFF;
+}
+
+.w100 {
+
+}
+
+.ewm{
+width: 360rpx;
+height: 360rpx;
+margin: 80rpx auto 110rpx;
+border-radius: 8rpx;
+padding: 30rpx;
+background-color: #fff;
+}
+
+.txt {
+font-size: 66rpx;
+font-family: Microsoft YaHei;
+font-weight: bold;
+color: #FFFFFF;
+margin-top: 60rpx;
+text-align: center;
+line-height: 92rpx;
+}
+

@@ -1,0 +1,38 @@
+page {
+	background-color: #FFFFFF;
+}
+.w100 {
+
+}
+
+.login-logo{
+width: 600rpx;
+}
+.btn{
+	width: 660rpx;
+	margin: 40rpx auto;
+	height: 88rpx;
+	border-radius: 44rpx;
+	
+	font-size: 44rpx;
+	
+}
+.info-btn   {
+	color: #4394EF;
+	background-color: #eaf8ff;
+}
+
+.register  {
+color: #fff;
+background-color: #4394EF;
+}
+
+.w100{
+
+}
+
+.b-img{
+width: 90%;
+margin: 0 5%;
+}
+

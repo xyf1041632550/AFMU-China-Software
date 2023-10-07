@@ -1,0 +1,134 @@
+.login-bg {
+	width: 100%;
+	height: 100vh;
+	background: rgba(26, 26, 26, 0.15);
+}
+
+.list {
+	width: 750rpx;
+	/* background: #FFFFFF; */
+	/* border-radius: 96rpx 96rpx 0rpx 0rpx; */
+}
+
+.logo {
+	width: 105rpx;
+	height: 120rpx;
+	margin: 84rpx 322rpx 124rpx;
+}
+
+.box {
+	width: 690rpx;
+	height: 96rpx;
+	/* background: #F5F5F5;
+	border-radius: 48rpx; */
+	margin: 0 auto 40rpx;
+
+}
+
+.box-icon {
+	width: 80rpx;
+	height: 80rpx;
+	margin: 0 18rpx 0 0rpx;
+}
+
+.box-ipt {
+	padding-left: 10rpx;
+	height: 	96rpx;
+	border-bottom:  #4394EF 1px solid;
+	width: 560rpx;
+	font-size: 40rpx;
+	
+	font-weight: normal;
+	color: #4394EF;
+	line-height: 52rpx;
+}
+.unit{
+	font-size: 32rpx;
+	font-weight: normal;
+	color: #4394EF;
+	line-height: 96rpx;
+	right: 18rpx;
+}
+.yj-icon {
+	width: 44rpx;
+	height: 44rpx;
+	margin-right: 50rpx;
+}
+
+.fun-box {
+	width: 570rpx;
+	height: 40rpx;
+	margin: 0 auto 110rpx;
+	font-size: 22rpx;
+	font-family: Source Han Sans SC-Normal, Source Han Sans SC;
+	font-weight: 400;
+	color: #BBBBBB;
+}
+
+.sel-icon {
+	width: 32rpx;
+	height: 32rpx;
+	margin: 0 8rpx;
+}
+
+.login-icon {
+	width: 100rpx;
+	height: 100rpx;
+	margin: 0 324rpx 26rpx;
+}
+
+.zc-box {
+	width: 100%;
+	font-size: 22rpx;
+	font-family: Source Han Sans SC-Normal, Source Han Sans SC;
+	font-weight: 400;
+	color: #7E8082;
+}
+
+
+.back-box  {
+font-size: 32rpx;
+	
+	font-weight: bold;
+	color: #4394EF;
+height: 64rpx;
+top: 124rpx;
+left:30rpx;
+}
+
+.back-icon{
+ width: 40rpx;
+ height: 52rpx;
+ margin-right: 4rpx;
+}
+
+.code {
+	margin-right: 48rpx;
+	width: 176rpx;
+	height: 60rpx;
+	background: #34D9A3;
+	border-radius:30rpx;
+font-size: 24rpx;
+font-family: Source Han Sans SC-Normal, Source Han Sans SC;
+font-weight: 400;
+color: #FFFFFF;
+line-height: 46rpx;
+}
+.btn{
+	width: 660rpx;
+	margin: 40rpx auto;
+	height: 88rpx;
+	border-radius: 44rpx;
+	
+	font-size: 44rpx;
+	
+}
+.info-btn   {
+	color: #4394EF;
+	background-color: #eaf8ff;
+}
+
+.register  {
+color: #fff;
+background-color: #4394EF;
+}

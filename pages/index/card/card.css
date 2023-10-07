@@ -1,0 +1,75 @@
+.container {
+	border: 2px solid #fff;
+	
+	background-color: #000;
+
+
+}
+
+.cropper {
+	flex: 1;
+}
+
+
+
+.bot-bg {
+	height: 200rpx;
+	width: 100%;
+}
+
+.bot-bg1 {
+	margin-top: 50rpx;
+	height: 150rpx;
+	width: 100%;
+}
+
+.btn {
+	width: 300rpx;
+
+	font-size: 37rpx;
+	font-family: SimHei;
+	font-weight: 400;
+	color: #929191;
+
+
+}
+
+.icon {
+	width: 46rpx;
+	height: 46rpx;
+	margin-left: 8rpx;
+}
+
+.yuan {
+	width: 90rpx;
+	height: 90rpx;
+	border-radius: 50%;
+	background: #4fbfff;
+}
+
+page {
+	background: #4fbfff;
+}
+
+.top {
+	width: 100%;
+	height: 280rpx;
+}
+
+.top-icon {
+	width: 151rpx;
+	height: 137rpx;
+}
+
+.title {
+	width: max-content;
+	padding: 0 20rpx;
+	height: 56rpx;
+	margin-right: 40rpx;
+	border-radius: 28rpx;
+	background-color: #010101;
+	font-size: 27rpx;
+	font-family: SimHei;
+	font-weight: 400;
+	color: #FFFFFF;
+}

@@ -1,0 +1,32 @@
+page {
+	background: #4fbfff;
+	background-color: #4fbfff;
+}
+.w100 {
+
+}
+
+.video-box{
+width: 350rpx;
+min-height: 762rpx;
+border: 3px solid #FFFDFD;
+border-radius: 30rpx;
+overflow: hidden;
+}
+.title{
+	width: 302rpx;
+	height: 83rpx;
+	border-radius: 16rpx;
+	background: #2D8EFF;
+	border-radius: 20rpx;
+	margin: 38rpx auto 22rpx;
+	font-size: 40rpx;
+	font-family: DengXian;
+	font-weight: 400;
+	color: #FFFFFF;
+	
+}
+.video{
+	width: 350rpx;
+	height: 617rpx;
+}
