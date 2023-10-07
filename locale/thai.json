@@ -1,0 +1,135 @@
+{
+	"Submit":"ส่ง",
+	"Confirm":"ยืนยัน",
+	
+	"Service":"บริการ",
+	
+	"Twitter":"Twitter",
+	"Instagram":"Instagram",
+	
+	"Please enter firstName":"Please enter ดูการกำหนดค่า",
+	"Please enter lastName":"Please enter ดูการกำหนดค่า",
+	"Please enter the correct email address":"Please enter the correct email ดูการกำหนดค่า",
+	"Please enter the correct contact phone number":"Please enter the correct contact phone ดูการกำหนดค่า",
+	"Please select dealer":"Please select ดูการกำหนดค่า",
+	"Please select an appointment time":"Please select an ดูการกำหนดค่า ดูการกำหนดค่า",
+	"Please read and agree to the privacy policy":"Please read and ดูการกำหนดค่า to the privacy ดูการกำหนดค่า",
+	
+	
+	
+	
+	
+	"Specifications":"ดูการกำหนดค่า",
+	
+	"car_configuration.from": "ดูการกำหนดค่า",
+	"ViewConfiguration":"View ดูการกำหนดค่า",
+	"Resume":"ดูการกำหนดค่า",
+	"Purchase":"ดูการกำหนดค่า",
+	"Contact Information":"Contact ดูการกำหนดค่า",
+	"First Name":"First ดูการกำหนดค่า",
+	"Last Name":"Last ดูการกำหนดค่า",
+	"Mobile phone":"Mobile ดูการกำหนดค่า",
+	"Required":"ดูการกำหนดค่า",
+	"Dealer":"Dealer",
+	"I understand and agree to the":"I understand and agree to ดูการกำหนดค่า",
+	"Privacy Policy":"Privacy ดูการกำหนดค่า",
+	"Test drive reservation successfully":"Test drive reservation ดูการกำหนดค่า",
+	"Purchase order submitted successfully":"Purchase order submitted ดูการกำหนดค่า",
+	"Please keep communication open，our staff will contact you late date":"Please keep ดูการกำหนดค่า open，our staff will contact you late date",
+	"You need to log in first to proceed with the purchase of the vehicle":"You need to log in first to proceed with the purchase of the vehicle",
+	"Log in":"LOG IN",
+	"Please select":"Please select",
+	"next":"Next",
+	
+	
+	"Models":"ดูการกำหนดค่า",
+	"Email":"ดูการกำหนดค่า",
+	"Enter your email":"Enter ดูการกำหนดค่า email",
+	"Country":"Country",
+	"Mobile Number":"Mobile ดูการกำหนดค่า",
+	"Select Dealer":"Select ดูการกำหนดค่า",
+	"Appointment Time":"ดูการกำหนดค่า Time",
+	"YY/MM/DD/H":"YY/MM/DD/H",
+	"Contact Address":"Contact Address",
+	"Enter your Contact Address (Optional)":"Enter your ดูการกำหนดค่า Address (Optional)",
+	"vehicle_configuration":"ดูการกำหนดค่า",
+	"Vehicle Price":"Vehicle ดูการกำหนดค่า",
+	
+	
+	"Dealer Map":"Dealer Map",
+	"km":"km",
+	"navigation":"NAVIGATION",
+	"telephone":"TELEPHONE",
+	
+	
+	"Customer service":"Customer service",
+	"Waiting for a reply":"Waiting for a reply",
+	"Ask a question":"Ask a question",
+	"cancellation":"CANCELLATION",
+	"call":"call",
+	"Please select the type of question you want to consult":"Please select the type of question you want to consult",
+	"Please enter your question":"Please enter your question",
+	"Submitted successfully":"Submitted successfully",
+	"Details":"Details",
+	"Question Time":"Question Time",
+	"Recovery Time":"Recovery Time",
+	"Helpful":"Helpful",
+	"No Help":"No Help",
+	
+	
+	"Information Details":"Information Details",
+	"Download APP":"Download APP",
+	"OPEN APP":"OPEN APP",
+	"Comment":"Comment",
+	"COMMENT":"COMMENT",
+	"No comments":"No comments",
+	"Share":"Share",
+	"Facebook":"Facebook",
+	"Line":"Line",
+	"Please select a comment entry":"Please select a comment entry",
+	"Comment successfully":"Comment successfully",
+	
+	"Car Guidelines":"Car Guidelines",
+	"Annex":"Annex",
+	
+	
+	"Questionnaire Investigation":"Questionnaire Investigation",
+	"NETA App":"NETA App",
+	"Invites you to participate in the research":"Invites you to participate in the research",
+	"Kind reminder":"Kind reminder: To ensure the accuracy of the survey results, please fill in a true and effective questionnaire answer. Thank you for your support and cooperation!",
+	"Open Questionnaire":"Open Questionnaire",
+	"Grade":"Grade",
+	"Single Choice":"Single Choice",
+	"Multiple Choice":"Multiple Choice",
+	"Fill Content":"Fill Content",
+	"Please rate the following content":"Please rate the following content",
+	"Thank you for participating in this survey questionnaire":"Thank you for participating in this survey questionnaire",
+	"Please enter your answer (within 200 words)":"Please enter your answer (within 200 words)",
+	"Close":"Close",
+	
+	
+	"User Terms":"User Terms",
+	
+	"locale.auto": "System",
+	"locale.en": "English",
+	"locale.zh-hans": "简体中文",
+	"locale.zh-hant": "繁体中文",
+	"locale.ja": "日语",
+	"index.title": "Hello i18n",
+	"index.home": "Home",
+	"index.component": "Component",
+	"index.api": "API",
+	"index.schema": "Schema",
+	"index.demo": "uni-app globalization",
+	"index.demo-description": "Include uni-framework, manifest.json, pages.json, tabbar, Page, Component, API, Schema",
+	"index.detail": "Detail",
+	"index.language": "Language",
+	"index.language-info": "Settings",
+	"index.system-language": "System language",
+	"index.application-language": "Application language",
+	"index.language-change-confirm": "Applying this setting will restart the app",
+	"api.message": "Message",
+	"schema.name": "Name",
+	"schema.add": "Add",
+	"schema.add-success": "Add success"
+}

@@ -1,0 +1,77 @@
+{
+	"tab.page1": "拍照检测",
+	"tab.page2": "结果评价",
+	"tab.page3": "远程医疗",
+	"tab.page4": "我的",
+	
+	"In calculation":"计算中",
+	
+	"Please Register":"请先注册",
+	
+	"Please enter Name":"请输入名称",
+	"Please select Sex":"请选择性别",
+	"Please enter Weight":"请输入体重",
+	"Please enter Height":"请输入身高",
+	"Please enter age":"请输入年龄",
+	
+	"Login":"登录",
+	"Register":"注册",
+	"Back":"返回",
+	"Name":"姓名",
+	"Sex":"性别",
+	"Height":"身高",
+	"Weight":"体重",
+	"Age":"年龄",
+	
+	"man":"男",
+	"woman":"女",
+	"Please select":"请选择性别",
+	
+	"Search Records":"搜索记录",
+	"report":"FAT TEST 报告单",
+	"number":"健康档案编号",
+	
+	
+	"chromatism":"色差",
+	"overall merit":"综合评价",
+	"Scan code to follow":"扫码关注",
+	"Waiting for your consultation":"等你问诊",
+	"Science Popularization Handbook":"科普手册",
+	"Nutritional conditioning":"营养调理",
+	"body building exercise":"健身操",
+	"Physician's advice":"医师建议",
+	"large cardinal":"大基数",
+	"Small cardinality":"小基数",
+	
+	"merit1":"无患病风险，可保持目前健康状况",
+	"merit2":"有患代谢综合征的低风险，建议前往医院体检或改善生活习惯",
+	"merit3":"有患代谢综合征的高风险，需要前往医院做详细检查，确诊后接受治疗。",
+	
+	"retake":"重拍",
+	"Confirm":"确定",
+	
+	
+	
+	"locale.auto": "系统",
+	"locale.en": "English",
+	"locale.zh-hans": "简体中文",
+	"locale.zh-hant": "繁体中文",
+	"locale.ja": "日语",
+	"index.title": "Hello i18n",
+	"index.home": "主页",
+	"index.component": "组件",
+	"index.api": "API",
+	"index.schema": "Schema",
+	"index.demo": "uni-app 国际化演示",
+	"index.demo-description": "包含 uni-framework、manifest.json、pages.json、tabbar、页面、组件、API、Schema",
+	"index.detail": "详情",
+	"index.language": "语言",
+	"index.language-info": "语言信息",
+	"index.system-language": "系统语言",
+	"index.application-language": "应用语言",
+	"index.language-change-confirm": "应用此设置将重启App",
+	"api.message": "提示",
+  "schema.name": "姓名",
+	"schema.add": "新增",
+	"schema.add-success": "新增成功"
+}

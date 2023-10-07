@@ -1,0 +1,105 @@
+.trn{
+	transition: all .3s;
+}
+.a1{
+	animation: a1 .3s;
+}
+.a2{
+	animation: a2 .3s;
+}
+.heightani{
+	animation: heightani .3s;
+}
+.yup{
+	animation: yup .3s;
+}
+.ydown{
+	animation: ydown .3s;
+}
+.xleft{
+	animation: xleft .3s;
+}
+.xright{
+	animation: xright .3s;
+}
+.opacity{
+	animation: opacity .3s;
+}
+
+@-webkit-keyframes a1{
+	0%{-webkit-transform:translate3d(0,0,0) scale(.5);}
+	70%{-webkit-transform:translate3d(0,0,0) scale(1.05);}
+	100%{-webkit-transform:translate3d(0,0,0) scale(1);}
+}
+
+@-webkit-keyframes a2{
+	0%{-webkit-transform:translate3d(0,0,0) scale(1,.5);}
+	100%{-webkit-transform:translate3d(0,0,0) scale(1);}
+}
+
+
+@-webkit-keyframes heightani{
+	0%{-webkit-transform:translate3d(0,0,0) scale(1,.5);}
+	100%{-webkit-transform:translate3d(0,0,0) scale(1);}
+}
+
+@-webkit-keyframes yup{
+	0%{-webkit-transform:translateY(200%);}
+	100%{-webkit-transform:translateY(0%);}
+}
+@-webkit-keyframes ydown{
+	0%{-webkit-transform:translateY(-200%);}
+	100%{-webkit-transform:translateY(0%);}
+}
+@-webkit-keyframes xleft{
+	0%{-webkit-transform:translateX(-100%);}
+	100%{-webkit-transform:translateX(0%);}
+}
+@-webkit-keyframes xright{
+	0%{-webkit-transform:translateX(100%);}
+	100%{-webkit-transform:translateX(0%);}
+}
+
+@-webkit-keyframes opacity{
+	0%{opacity: 0;}
+	100%{opacity: 1;}
+}
+
+@keyframes a1{
+	0%{transform:translate3d(0,0,0) scale(.5);}
+	70%{-webkit-transform:translate3d(0,0,0) scale(1.05);}
+	100%{transform:translate3d(0,0,0) scale(1);}
+}
+
+@keyframes a2{
+	0%{transform:translate3d(0,0,0) scale(1,.5);}
+	100%{transform:translate3d(0,0,0) scale(1);}
+}
+
+
+@keyframes heightani{
+	0%{transform:translate3d(0,0,0) scale(1,.5);}
+	100%{transform:translate3d(0,0,0) scale(1);}
+}
+
+@keyframes yup{
+	0%{transform:translateY(200%);}
+	100%{transform:translateY(0%);}
+}
+@keyframes ydown{
+	0%{transform:translateY(-200%);}
+	100%{transform:translateY(0%);}
+}
+@keyframes xleft{
+	0%{transform:translateX(-100%);}
+	100%{transform:translateX(0%);}
+}
+@keyframes xright{
+	0%{transform:translateX(100%);}
+	100%{transform:translateX(0%);}
+}
+
+@keyframes opacity{
+	0%{opacity: 0;}
+	100%{opacity: 1;}
+}

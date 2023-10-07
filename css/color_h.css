@@ -1,0 +1,32 @@
+/* 进度条背景色 */
+	.prooess-color{
+		background: #FDC3C3;
+		/* background:#F9E5FF; */
+		/* background: #C0DEF8; */
+	}
+	
+	/* 渐变色 */
+	.gradient-color{
+		background: linear-gradient(114deg, #E72824 0%, #EE7935 100%);
+		/* background: linear-gradient(106deg, #8B299C 0%,  #E07CFF 100%); */
+		/* background: linear-gradient(106deg, #3892F5 0%,  #BBDBFD 140%); */
+	}
+	
+	.type-gradient-color{
+		background: linear-gradient(125deg, #E72824 4%, #EE7935 100%);
+		/* background: linear-gradient(125deg, #6B0978 0%, #E07CFF 100%); */
+		/* background: linear-gradient(155deg, #3993F6 50%,  #D2E6FF 180%); */
+	}
+	.bg-color{
+		
+	}
+	.text-color{
+		color: #E64640;
+		/* color:#8B299C; */
+		/* color:#3893F6; */
+	}
+	.border-color{
+		border-color:#E64640;
+		/* border-color:#8B299C; */
+		/* border-color:#3893F6; */
+	}

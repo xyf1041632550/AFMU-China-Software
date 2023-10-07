@@ -1,0 +1,22 @@
+/* 进度条背景色 */
+	.prooess-color{
+		background:#F9E5FF;
+	}
+	
+	/* 渐变色 */
+	.gradient-color{
+		background: linear-gradient(106deg, #FB7E20 0%,  #FFF0E4 100%);
+	}
+	
+	.type-gradient-color{
+		background: linear-gradient(125deg, #6B0978 0%, #E07CFF 100%);
+	}
+	.bg-color{
+		
+	}
+	.text-color{
+		color:#8B299C;
+	}
+	.border-color{
+		border-color:#8B299C;
+	}
